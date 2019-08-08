@@ -1,5 +1,5 @@
 # ApiRest (Tutorial no windows) 
-Exemplo de um Projecto com Django Rest-Framework
+Exemplo de um Projeto com Django Rest-Framework
 
 ## Passos para testes
 Requisitos:
