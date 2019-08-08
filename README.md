@@ -3,8 +3,7 @@ Exemplo de um Projecto com Django Rest-Framework
 
 ## Passos para testes
 Requisitos:
-  Ter Python 3 instalado na maquina
-  Ter o pip instalado
+  Ter <b>Python 3</b> instalado na maquina e o <b>pip</b>
 
 1- Clone o repositorio para sua maquina
 
