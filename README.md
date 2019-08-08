@@ -21,14 +21,15 @@ Requisitos:
     cd ..
     
     
-4- Instale o Django e o Django-Framework 
+4- Instale o Django e o Django-Framework e a dependencia Pygments
      
      pip install django
      pip install djangorestframework
+     pip install pygments
      
  5- Entre na pasta tutorial e rode o servidor
 
-    cd tutorial
+    cd <caminho>\tutorial
     python manage.py runserver
   
   6- Acesse o link para testar alguns metodos
